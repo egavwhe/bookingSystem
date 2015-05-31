@@ -1,0 +1,5 @@
+id,name,owner,address,hourlyRate
+1,Lazy Ltd, John, Athlone/London,18
+2,Tick the Box Ltd, Stephen, Dublin,25
+3,UpAndAtEm Ltd, Robert, Galway,32
+4,UpAndComer Mgmt, Gavin, Galway/Dublin,40
